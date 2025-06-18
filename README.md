@@ -90,10 +90,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/angelineediva/angelineediva/output/snake.svg" alt="Snake animation" />
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/angelineediva/angelineediva/output/pacman-contribution-graph.svg">
 
 ###
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/angelineediva/angelineediva/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/angelineediva/angelineediva/output/snake.svg" alt="Snake animation" />
 
 ###
