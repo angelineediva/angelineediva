@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi there! I'm Angeline</h1>
+<!-- <h1 align="center">👋 Hi there! I'm Angeline</h1> -->
 
+###
+![angelineediva](img/header.png)
 ###
 
 <div align="center">
